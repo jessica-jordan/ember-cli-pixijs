@@ -48,7 +48,7 @@
     "eslint-config-simplabs": "0.3.0",
     "eslint-plugin-ember": "^2.0.1",
     "eslint-plugin-mocha": "^4.8.0",
-    "loader.js": "^4.0.10"
+    "loader.js": "^4.2.2"
   },
   "engines": {
     "node": ">= 0.12.0"
